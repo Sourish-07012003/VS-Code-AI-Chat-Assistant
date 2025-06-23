@@ -27,4 +27,5 @@ A Visual Studio Code extension with a React-based AI chat interface. It enables 
 
 ---
 🧑‍💻 Author
+
 Sourish Panja
